@@ -9,6 +9,8 @@ describe 'collections practice' do
     end
   end
 
+  def sort_array_asc(array)
+
   # Question 2
   describe '#sort_array_desc' do
     it 'should return an array sorted in descending order' do
